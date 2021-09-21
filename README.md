@@ -1,5 +1,7 @@
 A simple SPA Portfolio built with React.
 ## Preview
-![Preview]()
+![Preview](./public/images/preview.png)
 
-## How to use
+## Built With
+* React
+* Node
