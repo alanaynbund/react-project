@@ -1,7 +1,7 @@
 let resumeData = {
   "imagebaseurl":"https://alanaynbund.github.io/",
   "name": "Alan Aynbund",
-  "role": "Developer",
+  "role": "",
   "linkedinId":"LinkedIn ID",
   "skypeid": "Skype ID",
   "roleDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet diam lacinia augue viverra laoreet sit amet et enim. Morbi molestie, dui nec lobortis imperdiet, lacus quam bibendum urna,",
