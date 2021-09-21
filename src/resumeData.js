@@ -1,7 +1,7 @@
 let resumeData = {
   "imagebaseurl":"https://alanaynbund.github.io/",
   "name": "Alan Aynbund",
-  "role": "Computer Science",
+  "role": "Developer",
   "linkedinId":"LinkedIn ID",
   "skypeid": "Skype ID",
   "roleDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet diam lacinia augue viverra laoreet sit amet et enim. Morbi molestie, dui nec lobortis imperdiet, lacus quam bibendum urna,",
@@ -71,24 +71,24 @@ let resumeData = {
   ],
   "portfolio":[
     {
-      "name":"project1",
+      "name":"sample 1",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "imgurl":"images/portfolio/coffee.jpg"
     },
     {
-      "name":"project2",
+      "name":"sample 2",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/project.jpg"
+      "imgurl":"images/portfolio/console.jpg"
     },
     {
-      "name":"project3",
+      "name":"sample 3",
       "description":"mobileapp",  
-      "imgurl":"images/portfolio/project2.png"
+      "imgurl":"images/portfolio/origami.jpg"
     },
     {
-      "name":"project4",
+      "name":"sample 4",
       "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "imgurl":"images/portfolio/retrocam.jpg"
     }
   ],
   "testimonials":[
