@@ -8,4 +8,4 @@ A simple SPA Portfolio built with React.
 
 
 ## Deployed app
-[https://loving-swartz-a09ffc.netlify.app/]
+https://loving-swartz-a09ffc.netlify.app/
